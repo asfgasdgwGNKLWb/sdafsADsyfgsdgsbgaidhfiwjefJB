@@ -1,0 +1,22 @@
+		
+					Informations about the AIO Tool
+
+===================================================================================================================
+
+At first run install.bat | Do not close the terminal, it is important that all requirements are
+installed successfully for the AIO tool to work.
+
+===================================================================================================================
+
+IF YOU DONT LIVE IN GERMANY, PLEASE USE A VPN AND CONNECT TO AN GERMAN SERVER (otherwise you cant do anything
+with the tool)
+
+If you dont have an VPN do the following Steps:
+
+1. Install Tuxler VPN from https://www.tuxlervpn.com/fr/download-windows/
+2. Connect to an German Server
+3. Thats it
+
+===================================================================================================================
+
+If you close the AIO Tool and want to open it again just run start.bat
